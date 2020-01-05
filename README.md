@@ -13,6 +13,7 @@ My attempt to coding everyday for 366 days in 2020!
 |      | - [x] Foreword                       | https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/foreword.md |           | During this time, my wife is due to give birth to our first born and OBGYN visits are frequent |
 |      | - [x] Preface                        | https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md              |           | When I am not on the computer, I use JSRun to run JS code on my phone while on the go.         |
 |      | - [x] Chapter 1: What is JavaScript? | https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md      |           |                                                                                                |
+| 005  | [ ] more freeCodeCamp Learn React    |                                                                                |           | can't seem to wrap my head around react lifecycles                                             |
 
 **Pomodoro Timer Setup**
 
