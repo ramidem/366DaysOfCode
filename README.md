@@ -18,7 +18,9 @@ My attempt to coding everyday for 366 days in 2020!
 |      | ~~[ ] !aborted React Tutorials by The Net Ninja~~ | https://www.youtube.com/watch?v=f7TmMBMLJ90&list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR&index=3 |           | outdated tutorial                                                                              |
 | 006  | [ ] Traversy Media - React JS Crash Course        | https://www.youtube.com/watch?v=sBws8MSXN7A&t=                                              |           |                                                                                                |
 |      | [ ] YDKJSY - Get Started: Chapter 1               | https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md                   |           |
-007 - finished YDKJS Get Started Chapter 1 - wifey gave birth to our baby girl!
+|007 - finished YDKJS Get Started Chapter 1 - wifey gave birth to our baby girl!
+|008| started reading YDKJS Yet: Surveying JS ||still at the hospital while wife is recovering. i still have to read something|
+
 
 **Pomodoro Timer Setup**
 
