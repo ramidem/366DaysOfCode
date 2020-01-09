@@ -20,6 +20,7 @@ My attempt to coding everyday for 366 days in 2020!
 |      | [ ] YDKJSY - Get Started: Chapter 1               | https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md                   |           |
 |007 - finished YDKJS Get Started Chapter 1 - wifey gave birth to our baby girl!
 |008| started reading YDKJS Yet: Surveying JS ||still at the hospital while wife is recovering. i still have to read something|
+|009|Surveying JS||busy day today, only managed to read a few paragraphs. But, we're finally home |
 
 
 **Pomodoro Timer Setup**
