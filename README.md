@@ -23,6 +23,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 009  | Surveying JS                                      |                                                                                             |           | busy day today, only managed to read a few paragraphs. But, we're finally home                          |
 | 010  | [x] finished Surveying JS                         |                                                                                             |           | still a busy day. i will be able to study more for the next 2 weeks, though, because of paternity leave |
 | 011  | [x] finished React JS Crash Course                |                                                                                             |           |                                                                                                         |
+| 012  | [ ] React Handbook by Flavio                      |                                                                                             |           | i need more tuts to help me understand react                                                            |
 
 **Pomodoro Timer Setup**
 
