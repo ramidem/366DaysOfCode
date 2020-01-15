@@ -26,6 +26,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 012  | [ ] React Handbook by Flavio                                   |                                                                                                                           |           | i need more tuts to help me understand react                                                            |
 | 013  | [ ] Learn React JS - Full Course for Beginners - Tutorial 2019 | https://www.youtube.com/watch?v=DLX62G4lc44                                                                               |           | used React Handbook as a supplementary source for learning while watching tutorials                     |
 | 014  | [ ] Learn React JS and learned about about fetch API           | https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/ |           | more Learn React Course for Beginners. also tried a little bit of some fetch API stuff                  |
+| 015  | [ ] more Learn React JS                                        |                                                                                                                           |           | i've gotten to the "phase 3: state" of this course at this point                                        |
 
 **Pomodoro Timer Setup**
 
