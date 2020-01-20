@@ -31,6 +31,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 017  | found a new book. The Road to Learn React by Robin Wieruch     | https://roadtoreact.com/                                                                                                  |           | put Learn React JS on hold. I am very indecisive. it's annoying. i can not focus                                                                    |
 | 018  | The Road to Learn React: ES6 Arrow Functions                   | https://roadtoreact.com/                                                                                                  |           |                                                                                                                                                     |
 | 019  | The Road to Learn React: Unidirectional Data Flow              | https://roadtoreact.com/                                                                                                  |           | my understanding about state and lifecycle was enlightened a little bit                                                                             |
+| 020  | The Road to Learn React: Bindings                              | https://roadtoreact.com/                                                                                                  |           | busy day. i still managed to read atleast one section.                                                                                              |
 
 **Pomodoro Timer Setup**
 
