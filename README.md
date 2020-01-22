@@ -33,6 +33,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 019  | The Road to Learn React: Unidirectional Data Flow              | https://roadtoreact.com/                                                                                                  |           | my understanding about state and lifecycle was enlightened a little bit                                                                             |
 | 020  | The Road to Learn React: Bindings                              | https://roadtoreact.com/                                                                                                  |           | busy day. i still managed to read atleast one section.                                                                                              |
 | 021  | attempted to make a todo app: toodledoo                        | https://codepen.io/ramidem/pen/RwNEGaK?editors=0101                                                                       |           | practice makes better!                                                                                                                              |
+| 022  | [x] The Road to Learn React: Basics in React                   |                                                                                                                           |           | finished Basics in React Chapter                                                                                                                    |
 
 **Pomodoro Timer Setup**
 
