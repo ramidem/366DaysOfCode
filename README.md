@@ -37,6 +37,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 023  | [x] The Road to Learn React: Getting Real with APIs            | https://roadtoreact.com/                                                                                                  |           | I have to get rid of these distractions                                                                                                             |
 | 024  | [x] The Road to Learn React: Fetching Data                     | https://roadtoreact.com/                                                                                                  |           | Still trying get the grasp of react lifecycles. also, always a busy. or maybe i am just not motivated enough.                                       |
 | 025  | [x] finished The Road to Learn React: Getting Real with APIs   | https://roadtoreact.com/                                                                                                  |           | still blurry                                                                                                                                        |
+| 026  | [ ] The Road to Learn React: Code Organization and Testing     | https://roadtoreact.com/                                                                                                  |           |                                                                                                                                                     |
 
 **Pomodoro Timer Setup**
 
