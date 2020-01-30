@@ -41,6 +41,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 027  | [x] finished The Road to Learn React: Code Organization and Testing | https://roadtoreact.com/                                                                                                  |           | did not dive much into testing.                                                                                                                     |
 | 028  | [x] The Road to Learn React: Advanced React Components              | https://roadtoreact.com/                                                                                                  |           | Paternity leave is over. Back to regular job.                                                                                                       |
 | 029  | [x] finished The Road to Learn React: Advanced React Components     | https://roadtoreact.com/                                                                                                  |           |                                                                                                                                                     |
+| 030  | [x] finished The Road to Learn React                                | https://roadtoreact.com/                                                                                                  |           | i can't believe i actually finished the book. i learned a thing or two. that's what matters.                                                        |
 
 **Pomodoro Timer Setup**
 
