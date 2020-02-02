@@ -44,6 +44,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 030  | [x] finished The Road to Learn React                                | https://roadtoreact.com/                                                                                                  |           | i can't believe i actually finished the book. i learned a thing or two. that's what matters.                                                        |
 | 031  | [ ] back to freeCodeCamp                                            |                                                                                                                           |           | back to learning react                                                                                                                              |
 | 032  | [ ] more freeCodeCamp                                               |                                                                                                                           |           | still learning react.                                                                                                                               |
+| 033  | [x] YDKJS: Surveying JS                                             |                                                                                                                           |           | the class and object oriented approach is not clear to me yet                                                                                       |
 
 **Pomodoro Timer Setup**
 
