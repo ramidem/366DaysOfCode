@@ -46,6 +46,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 032  | [ ] more freeCodeCamp                                               |                                                                                                                           |           | still learning react.                                                                                                                               |
 | 033  | [x] YDKJS: Surveying JS                                             |                                                                                                                           |           | the class and object oriented approach is not clear to me yet                                                                                       |
 | 034  | [x] finished freeCodeCamp React                                     |                                                                                                                           |           | slowly but surely                                                                                                                                   |
+| 035  | [ ] freeCodeCamp Redux                                              |                                                                                                                           |           |                                                                                                                                                     |
 
 **Pomodoro Timer Setup**
 
