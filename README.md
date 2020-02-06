@@ -48,6 +48,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 034  | [x] finished freeCodeCamp React                                     |                                                                                                                           |           | slowly but surely                                                                                                                                   |
 | 035  | [x] freeCodeCamp Redux                                              |                                                                                                                           |           |                                                                                                                                                     |
 | 036  | [x] _(barely)_ finished freeCodeCamp Redux                          |                                                                                                                           |           | up to this moment i'm still burried in tutorial graveyard and i can't understand 💩!                                                                |
+| 037  | [x] Learn Redux - Wes Box                                           | https://learnredux.com/                                                                                                   |           | i need to focus more...                                                                                                                             |
 
 **Pomodoro Timer Setup**
 
