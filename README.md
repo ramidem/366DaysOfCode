@@ -51,6 +51,7 @@ My attempt to coding everyday for 366 days in 2020!
 | 037  | [x] Learn Redux - Wes Box                                           | https://learnredux.com/                                                                                                   |           | i need to focus more...                                                                                                                             |
 | 038  | [x] Learn Redux - Wes Box                                           | https://learnredux.com/                                                                                                   |           | i need to make it work...tutorial is dated and so are the modules.                                                                                  |
 | 039  | [x] cancelled Learn Redux - Wes Box                                 | https://learnredux.com/                                                                                                   |           | tutorial is dated and i can't wrap my head around React Routing                                                                                     |
+| 040  | [x] React Redux - Net Ninja                                         | https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG                                                  |           | sticking to this. this playlist tackles react and redux in on place. also, the author explains react very well                                      |
 
 **Pomodoro Timer Setup**
 
