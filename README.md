@@ -55,7 +55,9 @@ My attempt to coding everyday for 366 days in 2020!
 | 041  | [x] React Redux - Net Ninja                                         | https://codepen.io/ramidem/pen/zYGGrrb?editors=1111                                                                       |           | while following along with the tutorials, i decided to make my basic id generator                                                                   |
 | 042  | [x] React Redux - Net Ninja 22/44                                   | https://codepen.io/ramidem/pen/zYGGrrb?editors=1111                                                                       |           | getting the hang of passing props from parent to child components. also, `this` context starting to make more sense                                 |
 |      | [x] YDKJS Getting Started                                           | https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started                                                        |           | had the chance to finish chapters 3 and 4 at work                                                                                                   |
-|043| did not have access to personal computer. was reading YDKJS at work
+|043| did not have access to personal computer. was reading YDKJS at work |
+|044| okay...I tried to code/study today. but, was busy at work and too tired when I got home. also, baby is the priority above all. Today is still productive because I tried to finish a chapter from YDKJS...
+
 **Pomodoro Timer Setup**
 
 | Minutes | Description                 |
