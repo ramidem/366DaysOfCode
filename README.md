@@ -63,3 +63,4 @@ My attempt to coding everyday for 366 days in 2020!
 | 048  | [x] NetNinja: More Redux                                             |                                                                                                                           | More Redux                                                                                                                                                                                                 |
 |049|finished NetNinja: React Redux||
 |050|React JS Docs| reading docs. I find it difficult to work on my desktop lately because of the schedule adjustments at work and baby sitting.|
+|051| [Getting Started With React](https://www.taniarascia.com/getting-started-with-react/) |https://codepen.io/ramidem/pen/ExjgxJg?editors=0010| more react tuts
