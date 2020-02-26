@@ -278,3 +278,9 @@ My attempt to coding everyday for 366 days in 2020!
 - Added learning resources.
 - React JS Doc: [Intro to React](https://codepen.io/ramidem/pen/KKpNNaa?editors=0010)
 - React JS Doc: [Tic Tac Toe](https://codepen.io/ramidem/pen/WNvRLyP?editors=0010)
+
+**057**
+
+- [JavaScript30](https://javascript30.com/) 01/30
+  - Vanilla JS refresher
+  - !we took baby iya to the health center for vaccine today. did not have enough time to focus and study
