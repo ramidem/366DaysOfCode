@@ -281,6 +281,14 @@ My attempt to coding everyday for 366 days in 2020!
 
 **057**
 
-- [JavaScript30](https://javascript30.com/) 01/30
+- [ ] [JavaScript30](https://javascript30.com/) 01/30
+  - JavaScript Drum Kit
   - Vanilla JS refresher
   - !we took baby iya to the health center for vaccine today. did not have enough time to focus and study
+
+**058**
+
+- [ ] [React JS Docs](https://reactjs.org): [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
+  - First attempt (local)
+- [ ] [JavaScript30](https://javascript30.com/) 02/30
+  - CSS + JS Clock
