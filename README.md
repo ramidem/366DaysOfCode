@@ -288,7 +288,14 @@ My attempt to coding everyday for 366 days in 2020!
 
 **058**
 
-- [ ] [React JS Docs](https://reactjs.org): [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
+- [x] [React JS Docs](https://reactjs.org): [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
   - First attempt (local)
 - [ ] [JavaScript30](https://javascript30.com/) 02/30
   - CSS + JS Clock
+
+**059**
+
+- [ ] [JavaScript30](https://javascript30.com/) 03/30
+  - Scoped CSS Variables and JS
+- [x] [React JS Docs](https://reactjs.org): [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
+  - Finished tutorial
