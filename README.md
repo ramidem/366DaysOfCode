@@ -298,4 +298,4 @@ My attempt to coding everyday for 366 days in 2020!
 - [ ] [JavaScript30](https://javascript30.com/) 03/30
   - Scoped CSS Variables and JS
 - [x] [React JS Docs](https://reactjs.org): [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
-  - Finished tutorial
+  - finished the tutorial
