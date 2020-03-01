@@ -303,5 +303,12 @@ My attempt to coding everyday for 366 days in 2020!
 **060**
 
 - [ ] [JavaScript30](https://javascript30.com/) 04/30
-  - [ ] Array Cardio: Day 1
+  - [x] Array Cardio: Day 1
     - Was busy baby-sitting after work.
+
+**061**
+
+- [ ] [JavaScript30](https://javascript30.com/) 04/30
+  - [x] Array Cardio: Day 2
+    - again, baby-sitting is more important.
+    - i should add more context. but i can't event think straight because i'm very sleepy. excuses. this has got to stop.
