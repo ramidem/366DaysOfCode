@@ -312,3 +312,8 @@ My attempt to coding everyday for 366 days in 2020!
   - [x] Array Cardio: Day 2
     - again, baby-sitting is more important.
     - i should add more context. but i can't event think straight because i'm very sleepy. excuses. this has got to stop.
+
+**062**
+
+- [ ] [JavaScript30](https://javascript30.com/) 05/30
+  - Flex Panels Image Gallery
