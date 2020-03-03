@@ -321,3 +321,5 @@ My attempt to coding everyday for 366 days in 2020!
 **063**
 
 - [ ] [JavaScript30](https://javascript30.com/) 06/30
+  - Ajax Type Ahead
+  - I have to be more detailed and articulate with my notes. I have just been busy with the baby. excuses to infinity, i know.
