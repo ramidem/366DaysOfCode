@@ -323,3 +323,23 @@ My attempt to coding everyday for 366 days in 2020!
 - [ ] [JavaScript30](https://javascript30.com/) 06/30
   - Ajax Type Ahead
   - I have to be more detailed and articulate with my notes. I have just been busy with the baby. excuses to infinity, i know.
+
+---
+
+**Trip to Zamboanga City**
+Flew to Zamboanga City for baby's [aqiqah](https://en.wikipedia.org/wiki/Aqiqah).
+
+Finished work at 10:30 AM and had baby-sit when I got home. When we arrived, I did not have the chance to setup the laptop I asked my sister to bring so I can still continue studying. I kinda that one day I missed.
+
+I am using a beat up Dell laptop where I replaced Windows 10 with Pop OS.
+
+Now, back to coding/learning. or whatever!
+
+---
+
+**065**
+
+- [ ] [JavaScript30](https://javascript30.com/) 07/30
+  - Array Cardio: Day 2
+  - Installed Node on my sister's laptop with Pop OS
+  - Created new folder for YDKJS book
