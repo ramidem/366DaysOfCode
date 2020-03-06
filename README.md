@@ -343,3 +343,9 @@ Now, back to coding/learning. or whatever!
   - Array Cardio: Day 2
   - Installed Node on my sister's laptop with Pop OS
   - Created new folder for YDKJS book
+
+**066**
+
+- YDKJS
+  - Getting Started
+    - Appendix B 1/2
