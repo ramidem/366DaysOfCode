@@ -346,6 +346,29 @@ Now, back to coding/learning. or whatever!
 
 **066**
 
+- Added a couple of Vim plugins
 - YDKJS
   - Getting Started
-    - Appendix B 1/2
+    - Appendix B 1/3
+      - scheduleMeeting.js 
+
+---
+
+**067**
+
+Baby Iya's big day!
+
+I decided not to code/study.
+
+---
+
+**068**
+
+- [ ] [JavaScript30](https://javascript30.com/) 08/30
+  - HTML5 Canvas
+- [ ] [JavaScript30](https://javascript30.com/) 09/30
+  - 14 Must Know Dev Tools Tricks
+- YDKJS
+  - Getting Started
+    - Appendix B 2/3
+      - rangeClosure.js - I pretty much just copied the example solution
