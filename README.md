@@ -372,3 +372,12 @@ I decided not to code/study.
   - Getting Started
     - Appendix B 2/3
       - rangeClosure.js - I pretty much just copied the example solution
+
+**069**
+
+- YDKJS
+  - Getting Started
+    - Appendix B 3/3
+      - prototypes.js - Also, just copied the code. But, I learned a few during the process
+- Reviewed [Hugo](https://gohugo.io/)
+  - [x] [Introduction to Hugo](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
