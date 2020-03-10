@@ -381,3 +381,11 @@ I decided not to code/study.
       - prototypes.js - Also, just copied the code. But, I learned a few during the process
 - Reviewed [Hugo](https://gohugo.io/)
   - [x] [Introduction to Hugo](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+
+**070**
+
+- Installed Pop OS on Desktop. Windows 10 was corrupted when I tried to install Pop OS on my SSD back in Zamboanga City.
+- Spent the rest of the day setting up new OS when we got back to Cebu City
+  - Installed Pop OS
+  - Installed/Set up Vim
+  - Installed/Set up Zsh (Oh My Zsh)
