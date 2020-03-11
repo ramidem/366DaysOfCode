@@ -350,7 +350,7 @@ Now, back to coding/learning. or whatever!
 - YDKJS
   - Getting Started
     - Appendix B 1/3
-      - scheduleMeeting.js 
+      - scheduleMeeting.js
 
 ---
 
@@ -389,3 +389,11 @@ I decided not to code/study.
   - Installed Pop OS
   - Installed/Set up Vim
   - Installed/Set up Zsh (Oh My Zsh)
+
+**071**
+
+- [ ] [JavaScript30](https://javascript30.com/) 10/30
+  - Hold Shift to Check Multiple Boxes
+- YDKJS
+  - Scopes & Closures
+    - Chapter 1
