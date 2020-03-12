@@ -397,3 +397,9 @@ I decided not to code/study.
 - YDKJS
   - Scopes & Closures
     - Chapter 1
+
+**072**
+
+- [ ] [JavaScript30](https://javascript30.com/) 11/30
+  - Custom HTML5 Video Player
+    - baby-sitting and all other excuses
