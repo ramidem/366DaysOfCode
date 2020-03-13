@@ -403,3 +403,8 @@ I decided not to code/study.
 - [ ] [JavaScript30](https://javascript30.com/) 11/30
   - Custom HTML5 Video Player
     - baby-sitting and all other excuses
+
+**073**
+
+- [ ] [JavaScript30](https://javascript30.com/) 12/30
+  - Key Sequence Detection
