@@ -408,3 +408,11 @@ I decided not to code/study.
 
 - [ ] [JavaScript30](https://javascript30.com/) 12/30
   - Key Sequence Detection
+
+**074**
+
+- [ ] [JavaScript30](https://javascript30.com/) 13/30
+  - Slide In on Scroll
+- YDKJS
+  - Scopes & Closures
+    - Chapter 2
