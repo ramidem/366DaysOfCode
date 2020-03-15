@@ -416,3 +416,9 @@ I decided not to code/study.
 - YDKJS
   - Scopes & Closures
     - Chapter 2
+
+**075**
+
+- YDKJS
+  - Scopes & Closures
+    - Chapter 3
