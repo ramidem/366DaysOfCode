@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Workers</title>
+  </head>
+  <body>
+    <script>
+      var student = "med";
+      var id = "30";
+
+      function hello() {
+        console.log(`hello, ${self.student}`);
+      }
+
+      hello();
+      self.hello();
+      console.log(typeof self.id);
+    </script>
+  </body>
+</html>
