@@ -422,3 +422,11 @@ I decided not to code/study.
 - YDKJS
   - Scopes & Closures
     - Chapter 3
+
+**076**
+
+- [ ] [JavaScript30](https://javascript30.com/) 14/30
+  - Object and Arrays - Reference VS Copy
+- YDKJS
+  - Scopes & Closures
+    - Chapter 4
