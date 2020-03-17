@@ -430,3 +430,8 @@ I decided not to code/study.
 - YDKJS
   - Scopes & Closures
     - Chapter 4
+
+**077**
+
+- [ ] [JavaScript30](https://javascript30.com/) 15/30
+  - LocalStorage and Event Delegation
