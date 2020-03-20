@@ -435,3 +435,17 @@ I decided not to code/study.
 
 - [ ] [JavaScript30](https://javascript30.com/) 15/30
   - LocalStorage and Event Delegation
+
+---
+
+**078**
+
+- Attempted to read atleast one chapter from YDKJS: Scopes and Closures, but I just can't juggle between sleep, work, studying and baby - baby wins. always
+- COVID19 is giving me too much paranoia
+
+---
+
+**079**
+
+- [ ] [JavaScript30](https://javascript30.com/) 16/30
+  - Text Shadow Mouse Effect
