@@ -449,3 +449,8 @@ I decided not to code/study.
 
 - [ ] [JavaScript30](https://javascript30.com/) 16/30
   - Text Shadow Mouse Effect
+
+**080**
+
+- [ ] [JavaScript30](https://javascript30.com/) 17/30
+  - Sorting Band Names Without Articles
