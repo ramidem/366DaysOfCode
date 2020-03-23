@@ -454,3 +454,30 @@ I decided not to code/study.
 
 - [ ] [JavaScript30](https://javascript30.com/) 17/30
   - Sorting Band Names Without Articles
+
+---
+
+**081**
+
+- Not sure what happened this day...
+
+---
+
+**082**
+
+- [ ] [JavaScript30](https://javascript30.com/) 18/30
+  - Tally String Times with Reduce
+- [x] Frontend Masters: Introduction to JavaScript Programming
+  - Links
+    - [ ] [Complete Intro to Web Development](https://frontendmasters.com/courses/web-development-v2/)
+    - [ ] [Eloquent JS](https://eloquentjavascript.net/)
+    - [x] YDKJS: Up & Going
+
+**083**
+
+- [x] Frontend Masters: Introduction to JavaScript Programming
+- [ ] [JavaScript30](https://javascript30.com/) 19/30
+  - Webcam Fun
+  - [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam)
+    - I do not have webcam available. [installation instructions](http://www.dev47apps.com/droidcam/linuxx/)
+  - Can't finish on Pop OS. will be installing Windows 10 then Dual Boot with Ubuntu. Generic Gamepads have limited support in Linux
