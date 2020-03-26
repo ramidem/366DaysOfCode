@@ -481,3 +481,20 @@ I decided not to code/study.
   - [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam)
     - I do not have webcam available. [installation instructions](http://www.dev47apps.com/droidcam/linuxx/)
   - Can't finish on Pop OS. will be installing Windows 10 then Dual Boot with Ubuntu. Generic Gamepads have limited support in Linux
+
+---
+
+**084**
+
+**085**
+
+I just decided not to do anything.
+Also, the COVID19 outbreak just went out of hand. City was put under Community Quarantine. As of today, we are on Enhanced Community Quarantine.
+
+---
+
+**086**
+
+- Set up Windows 10 for Development. Installed WSL (ZSH, Vim, Git, Node), VSCode etc...
+- [ ] [JavaScript30](https://javascript30.com/) 19/30
+  - Finished Webcam Fun
