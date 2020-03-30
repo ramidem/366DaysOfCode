@@ -498,3 +498,28 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 - Set up Windows 10 for Development. Installed WSL (ZSH, Vim, Git, Node), VSCode etc...
 - [ ] [JavaScript30](https://javascript30.com/) 19/30
   - Finished Webcam Fun
+
+**087**
+
+- [x] CS50M reactNative 01/13
+
+---
+
+**088**
+
+- Wife and myself started working from home, at least, while there is Enhanced Community Quarantine due to COVID19 outbreak. Spent the whole afternoon setting up computers our employers provided.
+
+---
+
+**089**
+
+- [ ] [JavaScript30](https://javascript30.com/) 20/30
+  - Speech Detection
+
+**090**
+
+
+- [ ] CS50M reactNative 02/13
+- [ ] [JavaScript30](https://javascript30.com/) 21/30
+  - Geolocation
+
