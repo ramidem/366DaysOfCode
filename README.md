@@ -518,8 +518,23 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
 **090**
 
-
 - [ ] CS50M reactNative 02/13
+
+  - [ ] Project 0
+
 - [ ] [JavaScript30](https://javascript30.com/) 21/30
   - Geolocation
 
+---
+
+**091**
+
+- This is starting to become a trend and has to stop. I have all the reason to be productive since it's Enhanced Community Quarantine due to COVID19. But, I am working from home as a call center agent from a Financial Institution and also busy taking care of my baby.
+
+---
+
+**092**
+
+- [x] CS50M reactNative 02/13
+
+  - [ ] Project 0
