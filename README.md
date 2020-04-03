@@ -538,3 +538,21 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 - [x] CS50M reactNative 02/13
 
   - [ ] Project 0
+
+---
+
+**093**
+
+`null`
+
+- [x] CS50M reactNative 02/13
+  - [ ] Project 0 \*_attempted_
+
+---
+
+**094**
+
+- [ ] [JavaScript30](https://javascript30.com/) 22/30
+  - Follow Along Links
+- [x] CS50M reactNative 02/13
+  - [ ] Project 0 \*_attempted_
