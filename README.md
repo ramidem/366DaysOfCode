@@ -556,3 +556,20 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
   - Follow Along Links
 - [x] CS50M reactNative 02/13
   - [ ] Project 0 \*_attempted_
+
+**095**
+
+- [ ] [JavaScript30](https://javascript30.com/) 23/30
+  - Speech Synthesis
+
+**096**
+
+- [ ] [JavaScript30](https://javascript30.com/) 24/30
+  - Sticky Nav
+
+**097**
+
+- [x] CS50M reactNative
+  - [ ] Project 0: HTML + CSS Structure
+- [ ] [JavaScript30](https://javascript30.com/) 25/30
+  - Event Capture, Propagation, Bubbling and Once
