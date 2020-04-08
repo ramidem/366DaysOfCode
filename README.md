@@ -573,3 +573,16 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
   - [ ] Project 0: HTML + CSS Structure
 - [ ] [JavaScript30](https://javascript30.com/) 25/30
   - Event Capture, Propagation, Bubbling and Once
+
+---
+
+**098**
+
+`null`
+
+---
+
+**099**
+
+- [ ] [JavaScript30](https://javascript30.com/) 26/30
+  - Stripe Follow Along Dropdown
