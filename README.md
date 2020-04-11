@@ -586,3 +586,20 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
 - [ ] [JavaScript30](https://javascript30.com/) 26/30
   - Stripe Follow Along Dropdown
+
+---
+
+**1👶👶**
+
+`null` & `void`
+
+**1👶1**
+
+`null` & `void`
+
+---
+
+**102**
+
+- [ ] [JavaScript30](https://javascript30.com/) 27/30
+  - Click and Drag
