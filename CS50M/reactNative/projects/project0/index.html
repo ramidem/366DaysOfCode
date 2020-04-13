@@ -7,63 +7,25 @@
       href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Varela+Round&display=swap"
       rel="stylesheet"
     />
-    <script
-      src="https://kit.fontawesome.com/d7d6467cf2.js"
-      crossorigin="anonymous"
-    ></script>
   </head>
   <body>
     <div class="container center">
-      <h1 class="center title"><i class="fas fa-check-square"></i> todledoo</h1>
-      <form id="todo-form">
-        <input
-          type="text"
-          class="addTodo"
-          id="addTodo"
-          placeholder="what are you doing today?"
-        />
-      </form>
-      <ul id="todo-list" class="todo-list">
-        <h2>todo</h2>
-        <li class="todo-item">
-          <input type="checkbox" />
-          <p>
-            to do item sdas asdasd asdasd Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Reprehenderit, dolorem similique! Cum, libero eum
-            rem vero corrupti totam! Aspernatur, corrupti. Reiciendis illum
-            ullam perspiciatis eum nesciunt eveniet nulla inventore eos!
-          </p>
-          <!-- <span class="delete hovered">Delete</span> -->
-        </li>
-        <li class="todo-item">
-          <input type="checkbox" />
-          <p>to do item</p>
-          <!-- <span class="delete">Delete</span> -->
-        </li>
-        <li class="todo-item">
-          <input type="checkbox" />
-          <p>to do item</p>
-        </li>
-      </ul>
-      <ul id="completed-list" class="todo-list">
-        <h2>Completed</h2>
-        <li class="todo-item">
-          <input type="checkbox" checked />
-          <p>to do item</p>
-        </li>
-        <li class="todo-item">
-          <input type="checkbox" checked />
-          <p>to do item</p>
-        </li>
-        <li class="todo-item">
-          <input type="checkbox" checked />
-          <p>to do item</p>
-        </li>
-      </ul>
+      <h1 class="center title">My TODO App</h1>
       <div class="flow-right controls">
-        <span class="all-items">all <span id="item-count">0</span></span>
-        <span>done <span id="unchecked-count">0</span></span>
+        <span>all: <span id="item-count">0</span></span>
+        <span>remaining: <span id="unchecked-count">0</span></span>
       </div>
+      <button class="button center" onClick="newTodo()">
+        add todo
+      </button>
+      <ul id="todo-list" class="todo-list">
+        <!-- <li class="todo-container">
+          <input type="checkbox" class="todo-checkbox" /><label
+            >asdasdasdads</label
+          >
+          <span class="todo-delete">delete</span>
+        </li>-->
+      </ul>
     </div>
     <script src="./script.js"></script>
   </body>

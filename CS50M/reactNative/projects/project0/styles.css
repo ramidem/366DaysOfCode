@@ -1,40 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
 html,
 body {
   background-color: #eee;
   font-family: "Open Sans", sans-serif;
-  color: darkslategray;
-  padding: 0 20px;
-}
-
-.container {
-  max-width: 600px;
-  min-width: 360px;
-  margin: 50px auto;
-  background-color: white;
-  border-radius: 5px;
-  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
-  overflow: hidden;
-}
-
-h1.title {
   margin: 0;
-  padding: 20px;
-  background-color: #967059;
-  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.3);
-  text-align: center;
-  font-family: "Varela Round", sans-serif;
-}
-
-input.addTodo {
-  font-family: "Varela Round", sans-serif;
-  font-size: 20px;
-  margin: 0;
-  padding: 20px;
-  border: 0;
-  border-bottom: 1px solid #f1f1f1;
-  width: 100%;
-  max-width: 559px;
-  color: darkslategray;
+  padding: 0;
 }
 
 ul {
@@ -43,90 +16,115 @@ ul {
   list-style-type: none;
 }
 
-ul.todo-list h2 {
-  color: gray;
-  font-family: "Varela Round", sans-serif;
-  font-size: 12px;
-  font-weight: lighter;
-  text-transform: uppercase;
-  border-top: 1px solid #d1e2ff;
-  border-bottom: 1px solid #d1e2ff;
-  padding: 10px 20px;
-  margin: 0;
+.center {
+  align-self: center;
 }
-
-li.todo-item {
-  display: flex;
-  align-items: center;
-  border-bottom: 1px solid #f1f1f1;
-  position: relative;
-}
-
-li.todo-item:last-child {
-  border-bottom: 0;
-}
-
-input[type="checkbox"] {
-  margin: 20px;
-}
-
-input:checked + p {
-  color: gray;
-  background: #f9f9f9;
-  text-decoration: line-through;
-}
-
-p {
-  margin: 0;
-  padding: 20px;
-  flex: 1;
-  font-size: 20px;
-  border-left: 1px solid #d1e2ff;
-}
-
-/* span.delete {
-  display: none !important;
-}
-
-li.todo-item:hover span.delete {
-  color: white;
-  background-color: firebrick;
-  font-family: "Varela Round", sans-serif;
-  font-size: 12px;
-  font-weight: lighter;
-  text-transform: uppercase;
-  border: 0;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  padding: 0 20px;
-  margin: 0;
-  display: flex;
-  align-items: center;
-  cursor: pointer;
-} */
 
 .flow-right {
   display: flex;
   justify-content: space-around;
 }
 
-div.controls {
-  border-top: 1px solid #f1f1f1;
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  height: 100vh;
 }
 
-div.controls span {
-  color: gray;
+.title,
+.button {
   font-family: "Varela Round", sans-serif;
-  font-size: 12px;
-  font-weight: lighter;
-  text-transform: uppercase;
-  width: 100%;
-  padding: 15px;
-  text-align: center;
 }
 
-span.all-items {
-  border-right: 1px solid #f1f1f1;
+.title,
+.controls,
+.button {
+  flex: none;
+}
+
+.button {
+  padding: 10px 20px;
+  border-radius: 3px;
+  border: 0;
+  margin-top: 20px;
+}
+
+.button:hover {
+  background-color: #aaa;
+  cursor: pointer;
+}
+
+.todo-list {
+  flex: 1 1 0;
+  margin-top: 20px;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.todo-checkbox {
+  margin-right: 10px;
+  margin-left: 20px;
+  position: absolute;
+  left: 0;
+}
+
+input[type="checkbox"]:checked + label {
+  color: #888;
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+.todo-container {
+  padding: 20px;
+  border-bottom: 1px solid #333;
+  padding-right: 120px;
+  padding-left: 50px;
+  position: relative;
+}
+
+.todo-container:first-of-type {
+  border-top: 1px solid #333;
+}
+
+.todo-delete {
+  margin-right: 20px;
+  font-size: 14px;
+  position: absolute;
+  right: 0;
+  top: 20px;
+  color: #333;
+}
+
+.todo-delete:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.todo-completed {
+  color: red;
+}
+
+code {
+  border: 1px solid #bbb;
+  padding: 0 3px;
+  border-radius: 2px;
+  background-color: #eee;
+}
+
+#nothing {
+  text-align: center;
+  text-transform: lowercase;
+  font-family: "Varela Round", sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  color: #888;
+}
+
+#nothing span {
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
 }
