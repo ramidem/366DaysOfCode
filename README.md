@@ -281,7 +281,7 @@ My attempt to coding everyday for 366 days in 2020!
 
 **057**
 
-- [ ] [JavaScript30](https://javascript30.com/) 01/30
+- [x] [JavaScript30](https://javascript30.com/) 01/30
   - JavaScript Drum Kit
   - Vanilla JS refresher
   - !we took baby iya to the health center for vaccine today. did not have enough time to focus and study
@@ -290,37 +290,37 @@ My attempt to coding everyday for 366 days in 2020!
 
 - [x] [React JS Docs](https://reactjs.org): [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
   - First attempt (local)
-- [ ] [JavaScript30](https://javascript30.com/) 02/30
+- [x] [JavaScript30](https://javascript30.com/) 02/30
   - CSS + JS Clock
 
 **059**
 
-- [ ] [JavaScript30](https://javascript30.com/) 03/30
+- [x] [JavaScript30](https://javascript30.com/) 03/30
   - Scoped CSS Variables and JS
 - [x] [React JS Docs](https://reactjs.org): [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
   - finished the tutorial
 
 **060**
 
-- [ ] [JavaScript30](https://javascript30.com/) 04/30
+- [x] [JavaScript30](https://javascript30.com/) 04/30
   - [x] Array Cardio: Day 1
     - Was busy baby-sitting after work.
 
 **061**
 
-- [ ] [JavaScript30](https://javascript30.com/) 04/30
+- [x] [JavaScript30](https://javascript30.com/) 04/30
   - [x] Array Cardio: Day 2
     - again, baby-sitting is more important.
     - i should add more context. but i can't event think straight because i'm very sleepy. excuses. this has got to stop.
 
 **062**
 
-- [ ] [JavaScript30](https://javascript30.com/) 05/30
+- [x] [JavaScript30](https://javascript30.com/) 05/30
   - Flex Panels Image Gallery
 
 **063**
 
-- [ ] [JavaScript30](https://javascript30.com/) 06/30
+- [x] [JavaScript30](https://javascript30.com/) 06/30
   - Ajax Type Ahead
   - I have to be more detailed and articulate with my notes. I have just been busy with the baby. excuses to infinity, i know.
 
@@ -339,7 +339,7 @@ Now, back to coding/learning. or whatever!
 
 **065**
 
-- [ ] [JavaScript30](https://javascript30.com/) 07/30
+- [x] [JavaScript30](https://javascript30.com/) 07/30
   - Array Cardio: Day 2
   - Installed Node on my sister's laptop with Pop OS
   - Created new folder for YDKJS book
@@ -364,9 +364,9 @@ I decided not to code/study.
 
 **068**
 
-- [ ] [JavaScript30](https://javascript30.com/) 08/30
+- [x] [JavaScript30](https://javascript30.com/) 08/30
   - HTML5 Canvas
-- [ ] [JavaScript30](https://javascript30.com/) 09/30
+- [x] [JavaScript30](https://javascript30.com/) 09/30
   - 14 Must Know Dev Tools Tricks
 - YDKJS
   - Getting Started
@@ -392,7 +392,7 @@ I decided not to code/study.
 
 **071**
 
-- [ ] [JavaScript30](https://javascript30.com/) 10/30
+- [x] [JavaScript30](https://javascript30.com/) 10/30
   - Hold Shift to Check Multiple Boxes
 - YDKJS
   - Scopes & Closures
@@ -400,18 +400,18 @@ I decided not to code/study.
 
 **072**
 
-- [ ] [JavaScript30](https://javascript30.com/) 11/30
+- [x] [JavaScript30](https://javascript30.com/) 11/30
   - Custom HTML5 Video Player
     - baby-sitting and all other excuses
 
 **073**
 
-- [ ] [JavaScript30](https://javascript30.com/) 12/30
+- [x] [JavaScript30](https://javascript30.com/) 12/30
   - Key Sequence Detection
 
 **074**
 
-- [ ] [JavaScript30](https://javascript30.com/) 13/30
+- [x] [JavaScript30](https://javascript30.com/) 13/30
   - Slide In on Scroll
 - YDKJS
   - Scopes & Closures
@@ -425,7 +425,7 @@ I decided not to code/study.
 
 **076**
 
-- [ ] [JavaScript30](https://javascript30.com/) 14/30
+- [x] [JavaScript30](https://javascript30.com/) 14/30
   - Object and Arrays - Reference VS Copy
 - YDKJS
   - Scopes & Closures
@@ -433,7 +433,7 @@ I decided not to code/study.
 
 **077**
 
-- [ ] [JavaScript30](https://javascript30.com/) 15/30
+- [x] [JavaScript30](https://javascript30.com/) 15/30
   - LocalStorage and Event Delegation
 
 ---
@@ -447,12 +447,12 @@ I decided not to code/study.
 
 **079**
 
-- [ ] [JavaScript30](https://javascript30.com/) 16/30
+- [x] [JavaScript30](https://javascript30.com/) 16/30
   - Text Shadow Mouse Effect
 
 **080**
 
-- [ ] [JavaScript30](https://javascript30.com/) 17/30
+- [x] [JavaScript30](https://javascript30.com/) 17/30
   - Sorting Band Names Without Articles
 
 ---
@@ -465,7 +465,7 @@ I decided not to code/study.
 
 **082**
 
-- [ ] [JavaScript30](https://javascript30.com/) 18/30
+- [x] [JavaScript30](https://javascript30.com/) 18/30
   - Tally String Times with Reduce
 - [x] Frontend Masters: Introduction to JavaScript Programming
   - Links
@@ -476,7 +476,7 @@ I decided not to code/study.
 **083**
 
 - [x] Frontend Masters: Introduction to JavaScript Programming
-- [ ] [JavaScript30](https://javascript30.com/) 19/30
+- [x] [JavaScript30](https://javascript30.com/) 19/30
   - Webcam Fun
   - [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam)
     - I do not have webcam available. [installation instructions](http://www.dev47apps.com/droidcam/linuxx/)
@@ -496,7 +496,7 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 **086**
 
 - Set up Windows 10 for Development. Installed WSL (ZSH, Vim, Git, Node), VSCode etc...
-- [ ] [JavaScript30](https://javascript30.com/) 19/30
+- [x] [JavaScript30](https://javascript30.com/) 19/30
   - Finished Webcam Fun
 
 **087**
@@ -513,7 +513,7 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
 **089**
 
-- [ ] [JavaScript30](https://javascript30.com/) 20/30
+- [x] [JavaScript30](https://javascript30.com/) 20/30
   - Speech Detection
 
 **090**
@@ -522,7 +522,7 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
   - [ ] Project 0
 
-- [ ] [JavaScript30](https://javascript30.com/) 21/30
+- [x] [JavaScript30](https://javascript30.com/) 21/30
   - Geolocation
 
 ---
@@ -552,26 +552,26 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
 **094**
 
-- [ ] [JavaScript30](https://javascript30.com/) 22/30
+- [x] [JavaScript30](https://javascript30.com/) 22/30
   - Follow Along Links
 - [x] CS50M reactNative 02/13
-  - [ ] Project 0 \*_attempted_
+  - [x] Project 0 \*_attempted_
 
 **095**
 
-- [ ] [JavaScript30](https://javascript30.com/) 23/30
+- [x] [JavaScript30](https://javascript30.com/) 23/30
   - Speech Synthesis
 
 **096**
 
-- [ ] [JavaScript30](https://javascript30.com/) 24/30
+- [x] [JavaScript30](https://javascript30.com/) 24/30
   - Sticky Nav
 
 **097**
 
 - [x] CS50M reactNative
   - [ ] Project 0: HTML + CSS Structure
-- [ ] [JavaScript30](https://javascript30.com/) 25/30
+- [x] [JavaScript30](https://javascript30.com/) 25/30
   - Event Capture, Propagation, Bubbling and Once
 
 ---
@@ -584,7 +584,7 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
 **099**
 
-- [ ] [JavaScript30](https://javascript30.com/) 26/30
+- [x] [JavaScript30](https://javascript30.com/) 26/30
   - Stripe Follow Along Dropdown
 
 ---
@@ -601,17 +601,22 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
 **102**
 
-- [ ] [JavaScript30](https://javascript30.com/) 27/30
+- [x] [JavaScript30](https://javascript30.com/) 27/30
   - Click and Drag
 
 **103**
 
-- [ ] [JavaScript30](https://javascript30.com/) 28/30
+- [x] [JavaScript30](https://javascript30.com/) 28/30
   - Video Speed Wrapper
 
 **104**
 
 - [x] CS50M reactNative
   - [x] Project 0
-- [ ] [JavaScript30](https://javascript30.com/) 29/30
+- [x] [JavaScript30](https://javascript30.com/) 29/30
   - Countdown Timer
+
+**105**
+
+- [x] [JavaScript30](https://javascript30.com/) 30/30
+  - Whack-A-Mole!
