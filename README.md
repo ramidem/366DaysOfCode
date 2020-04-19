@@ -2,6 +2,29 @@
 
 My attempt to coding everyday for 366 days in 2020!
 
+_Daily Priority_
+
+At least one of each daily. More during the weekends.
+  
+- [ ] [freeCodeCamp](https://www.freecodecamp.org/)
+
+_During Rest Days_
+
+- [ ] [CS50's Web Programming with Python and JavaScript](https://github.com/ramidem/cs50-python-and-js)
+- [ ] [p1xt-guides](https://github.com/P1xt/p1xt-guides)
+
+**@TODO**
+
+- [ ] Improve JavaScript30 Codes
+- [ ] Upload CS50M Project 0 Video
+- [ ] Finish CS50M
+
+**Backlog**
+
+- [CS50M](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
+
+---
+
 **001**
 
 - [x] [freecodecamp learn react](https://www.freecodecamp.org/learn/front-end-libraries/react)
@@ -620,3 +643,27 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 
 - [x] [JavaScript30](https://javascript30.com/) 30/30
   - Whack-A-Mole!
+
+---
+
+**106**
+
+`null`
+
+**107**
+
+`null`
+
+**108**
+
+`null`
+
+**109**
+
+`null`
+
+---
+
+**110**
+
+- 01/12 [CS50's Web Programming with Python and JavaScript](https://github.com/ramidem/cs50-python-and-js): Git; HTML and CSS
