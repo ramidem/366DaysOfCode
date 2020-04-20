@@ -5,7 +5,7 @@ My attempt to coding everyday for 366 days in 2020!
 _Daily Priority_
 
 At least one of each daily. More during the weekends.
-  
+
 - [ ] [freeCodeCamp](https://www.freecodecamp.org/)
 
 _During Rest Days_
@@ -667,3 +667,7 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 **110**
 
 - 01/12 [CS50's Web Programming with Python and JavaScript](https://github.com/ramidem/cs50-python-and-js): Git; HTML and CSS
+
+**111**
+
+- fCC Reboot

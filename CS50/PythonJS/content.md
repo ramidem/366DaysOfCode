@@ -45,6 +45,22 @@
 
 _Merge Conflict_, A conflict arises when two separate branches have made edits to the same line in a file, or when a file has been deleted in one branch but edited in the other. [Atlassian](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 
+_Branching_, A branch represents an independent line of development. Branches serve as an abstraction for the edit/stage/commit process. You can think of them as a way to request a brand new working directory, staging area, and project history. New commits are recorded in the history for the current branch, which results in a fork in the history of the project.
+
+`git branch` - view existing branches.
+
+`git branch <branch name>` - create new branch.
+
+`git checkout <branch name>` - go to branch.
+
+`git merge <branch name>` - merge a feature branch. <branch name> is the branch to merge in
+
+**Terminologies**
+
+- Remotes
+- Forks
+- Pull Requests
+
 ## HTML and CSS
 
 **HyperText Markup Language and Cascading Stylesheet**
