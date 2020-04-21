@@ -671,3 +671,7 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 **111**
 
 - fCC Reboot
+
+**112**
+
+- more fCC JS Basics
