@@ -947,29 +947,208 @@ cc("A");
 
 **Build JavaScript Objects**
 
+`Object` class represents one of JavaScript's data types. It is used to store various keyed collections and more complex entities. Objects can be created using the `Object()` constructor or the object initializer / literal syntax. -- [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+
+```js
+var myDog = {
+  name: "Browny",
+  legs: 4,
+  tails: 1,
+  friends: ["Red", "Pink"],
+};
+```
+
 **Accessing Object Properties with Dot Notation**
+
+```js
+var testObj = {
+  hat: "ballcap",
+  shirt: "jersey",
+  shoes: "cleats",
+  "the drink": "water",
+  "an entree": "hamburger",
+};
+
+var hatValue = testObj.hat;
+var shirtValue = testObj.shirt;
+```
 
 **Accessing Object Properties with Bracket Notation**
 
+```js
+var entreeValue = testObj["an entree"];
+var drinkValue = testObj["the drink"];
+```
+
 **Accessing Object Properties with Variables**
+
+```js
+var testObj = {
+  12: "Namath",
+  16: "Montana",
+  19: "Unitas",
+};
+
+var playerNumber = 16;
+var player = testObj[playerNumber];
+```
 
 **Updating Object Properties**
 
+```js
+var myDog = {
+  name: "Coder",
+  legs: 4,
+  tails: 1,
+  friends: ["freeCodeCamp Campers"],
+};
+
+myDog.name = "Happy Coder";
+```
+
 **Add New Properties to a JavaScript Object**
+
+```js
+myDog.bark = "woof!";
+```
 
 **Delete Properties from a JavaScript Object**
 
+```js
+delete myDog.tails;
+```
+
 **Using Objects for Lookups**
+
+```js
+// Setup
+function phoneticLookup(val) {
+  var result = "";
+
+  var lookup = {
+    alpha: "Adams",
+    bravo: "Boston",
+    charlie: "Chicago",
+    delta: "Denver",
+    echo: "Easy",
+    foxtrot: "Frank",
+  };
+
+  result = lookup[val];
+  return result;
+}
+
+phoneticLookup("charlie");
+```
 
 **Testing Objects for Properties**
 
+`.hasOwnProperty(prop)` method of objects determine if that object has the given property name. Returns `true` or `false`
+
+```js
+function checkObj(obj, checkProp) {
+  if (obj.hasOwnProperty(checkProp)) {
+    return obj[checkProp];
+  }
+  return "Not Found";
+}
+```
+
 **Manipulating Complex Objects**
+
+Object is flexible that it can contain _`strings`_, _`numbers`_, _`booleans`_, _`arrays`_, _`functions`_, and _`objects`_.
+
+```js
+var myMusic = [
+  {
+    artist: "Billy Joel",
+    title: "Piano Man",
+    release_year: 1973,
+    formats: ["CD", "8T", "LP"],
+    gold: true,
+  },
+];
+
+myMusic[1] = {
+  artist: "Empoy",
+  title: "Sukang Itim",
+  release_year: 2000,
+  formats: ["CD", "8T", "LP"],
+};
+```
 
 **Accessing Nested Objects**
 
+```js
+var myStorage = {
+  car: {
+    inside: {
+      "glove box": "maps",
+      "passenger seat": "crumbs",
+    },
+    outside: {
+      trunk: "jack",
+    },
+  },
+};
+
+var gloveBoxContents = myStorage.car.inside["glove box"];
+```
+
 **Accessing Nested Arrays**
 
+```js
+var myPlants = [
+  {
+    trees1: ["rose", "tulip", "dandelion"],
+  },
+  {
+    trees2: ["fir", "pine", "birch"],
+  },
+];
+
+var secondTree = myPlants[1].trees2[1];
+```
+
 **Record Collection**
+
+```js
+// Setup
+var collection = {
+  2548: {
+    album: "Slippery When Wet",
+    artist: "Bon Jovi",
+    tracks: ["Let It Rock", "You Give Love a Bad Name"],
+  },
+  2468: {
+    album: "1999",
+    artist: "Prince",
+    tracks: ["1999", "Little Red Corvette"],
+  },
+  1245: {
+    artist: "Robert Palmer",
+    tracks: [],
+  },
+  5439: {
+    album: "ABBA Gold",
+  },
+};
+
+function updateRecords(id, prop, value) {
+  if (value === "") delete collection[id][prop];
+
+  if (prop === "tracks") {
+    collection[id][prop] = collection[id][prop] || [];
+    collection[id][prop].push(value);
+  } else {
+    collection[id][prop] = value;
+  }
+
+  return collection;
+}
+
+console.log(updateRecords(1245, "tracks", "lovely"));
+```
 
 **Iterate with JavaScript While Loops**
 
