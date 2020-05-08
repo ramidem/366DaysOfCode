@@ -675,3 +675,16 @@ Also, the COVID19 outbreak just went out of hand. City was put under Community Q
 **112**
 
 - more fCC JS Basics
+
+---
+
+## HUGE GAP HERE
+
+This is not even because of the Covid19 anymore. I am overwhelmed by the enormous amount of tutorials to follow. From now on, I will focus on freeCodeCamp (until I am comfortable) before moving on to the next.
+
+---
+
+**126**
+
+- [ ] fCC JS Basics
+  - [x] Record Collections
