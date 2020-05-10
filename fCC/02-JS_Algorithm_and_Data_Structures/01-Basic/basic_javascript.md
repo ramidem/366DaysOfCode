@@ -1152,21 +1152,164 @@ console.log(updateRecords(1245, "tracks", "lovely"));
 
 **Iterate with JavaScript While Loops**
 
+`while` loop runs "while" a specified condition is true and stops once that condition is no longer true
+
+```js
+var myArray = [];
+var counter = 0;
+
+while (counter < 5) {
+  myArray.push(counter);
+  counter++;
+}
+```
+
 **Iterate with JavaScript For Loops**
+
+`for` loops run "for" a specific number of times
+
+For loops are declared with three optional expressions separated by semicolons:
+
+`for ([initialization]; [condition]; [final-expression])`
+
+```js
+var myArray = [];
+
+for (var i = 1; i < 6; i++) {
+  myArray.push(i);
+}
+```
 
 **Iterate Odd Numbers With a For Loop**
 
+```js
+var myArray = [];
+
+for (var i = 1; i < 10; i += 2) {
+  myArray.push(i);
+}
+```
+
 **Count Backwards With a For Loop**
+
+```js
+var myArray = [];
+
+for (var i = 9; i > 0; i -= 2) {
+  myArray.push(i);
+}
+```
 
 **Iterate Through an Array with a For Loop**
 
+```js
+var myArr = [2, 3, 4, 5, 6];
+var total = 0;
+
+for (var i = 0; i < myArr.length; i++) {
+  total += myArr[i];
+}
+```
+
 **Nesting For Loops**
+
+```js
+function multiplyAll(arr) {
+  var product = 1;
+  for (var i = 0; i < arr.length; i++) {
+    for (var j = 0; j < arr[i].length; j++) {
+      product *= arr[i][j];
+    }
+  }
+  return product;
+}
+
+multiplyAll([
+  [1, 2],
+  [3, 4],
+  [5, 6, 7],
+]);
+```
 
 **Iterate with JavaScript Do...While Loops**
 
+`do...while` will first do one pass of the code inside the loop no matter what, and then continue to run the loop while the specified condition evaluates to true
+
+```js
+var myArray = [];
+var i = 10;
+
+do {
+  myArray.push(i);
+  i++;
+} while (i < 11);
+```
+
 **Replace Loops using Recursion**
 
+_"Recursion is a function that calls itself until it doesn't."_ -- [mpj](https://youtu.be/k7-N8R0-KY4)
+
+```js
+function multiply(arr, n) {
+  if (n <= 0) {
+    return n;
+  } else {
+    return multiply(arr, n - 1) + arr[n - 1];
+  }
+}
+
+console.log(multiply([1, 2, 3, 4], 1));
+```
+
 **Profile Lookup**
+
+```js
+var contacts = [
+  {
+    firstName: "Akira",
+    lastName: "Laine",
+    number: "0543236543",
+    likes: ["Pizza", "Coding", "Brownie Points"],
+  },
+  {
+    firstName: "Harry",
+    lastName: "Potter",
+    number: "0994372684",
+    likes: ["Hogwarts", "Magic", "Hagrid"],
+  },
+  {
+    firstName: "Sherlock",
+    lastName: "Holmes",
+    number: "0487345643",
+    likes: ["Intriguing Cases", "Violin"],
+  },
+  {
+    firstName: "Kristian",
+    lastName: "Vos",
+    number: "unknown",
+    likes: ["JavaScript", "Gaming", "Foxes"],
+  },
+];
+
+function lookUpProfile(name, prop) {
+  var msg = "";
+  for (var i = 0; i < contacts.length; i++) {
+    if (contacts[i].firstName == name) {
+      if (contacts[i].hasOwnProperty(prop)) {
+        return contacts[i][prop];
+      } else {
+        return "No such property";
+      }
+    }
+    msg = "No such contact";
+  }
+
+  return msg;
+}
+
+console.log(lookUpProfile("Akira", "likes"));
+console.log(lookUpProfile("Sherlock", "likes"));
+```
 
 **Generate Random Fractions with JavaScript**
 
