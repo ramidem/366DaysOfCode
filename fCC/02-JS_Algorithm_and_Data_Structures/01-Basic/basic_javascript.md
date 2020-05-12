@@ -1313,18 +1313,93 @@ console.log(lookUpProfile("Sherlock", "likes"));
 
 **Generate Random Fractions with JavaScript**
 
+The `Math.random()` function returns a floating-point, pseudo-random number in the range of 0 to less than 1 (inclusive of 0, but not 1) -- [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+
+```js
+function randomFraction() {
+  return Math.random();
+}
+```
+
 **Generate Random Whole Numbers with JavaScript**
+
+The `Math.floor()` function returns the largest integer less than or equal to a given number.
+
+```js
+function randomWholeNum() {
+  return Math.floor(Math.random() * 10);
+}
+```
 
 **Generate Random Whole Numbers within a Range**
 
+```js
+function randomRange(myMin, myMax) {
+  return Math.floor(Math.random() * (myMax - myMin + 1)) + myMin;
+}
+```
+
 **Use the parseInt Function**
+
+The `parseInt()` function parses a string and returns an integer.
+
+```js
+function convertToInteger(str) {
+  return parseInt(str);
+}
+
+convertToInteger("56");
+```
 
 **Use the parseInt Function with a Radix**
 
+`radix` | _Optional_
+
+- An integer between 2 and 36 that represents the radix (the base in mathematical numeral systems) of the string. Be careful—this does not default to 10!
+
+```js
+function convertToInteger(str) {
+  return parseInt(str, 2);
+}
+
+convertToInteger("10011");
+```
+
 **Use the Conditional (Ternary) Operator**
+
+The _conditional operator_, also called _ternary operator_, can be used as one line if-else expression.
+
+```js
+function checkEqual(a, b) {
+  return a == b ? "Equal" : "Not Equal";
+}
+
+checkEqual(1, 2);
+```
 
 **Use Multiple Conditional (Ternary) Operators**
 
+```js
+function checkSign(num) {
+  return num > 0 ? "positive" : num < 0 ? "negative" : "zero";
+}
+
+checkSign(10);
+```
+
 **Use Recursion to Create a Countdown**
+
+```js
+function countdown(n) {
+  if (n < 1) {
+    return [];
+  } else {
+    const countArray = countdown(n - 1);
+    countArray.unshift(n);
+    return countArray;
+  }
+}
+console.log(countdown(5));
+```
 
 **Use Recursion to Create a Range of Numbers**
