@@ -1403,3 +1403,18 @@ console.log(countdown(5));
 ```
 
 **Use Recursion to Create a Range of Numbers**
+
+I pretty much just copied the code from the Challenge Guide 😩😫😞😥
+
+```js
+function rangeOfNumbers(startNum, endNum) {
+  if (endNum - startNum === 0) {
+    return [startNum];
+  } else {
+    var nums = rangeOfNumbers(startNum, endNum - 1);
+    nums.push(endNum);
+    return nums;
+  }
+}
+console.log(rangeOfNumbers(5, 10));
+```
