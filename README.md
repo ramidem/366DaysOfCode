@@ -688,3 +688,19 @@ This is not even because of the Covid19 anymore. I am overwhelmed by the enormou
 
 - [ ] fCC JS Basics
   - [x] Record Collections
+
+---
+
+**127 - 135**
+
+Gone are those days.
+
+---
+
+**136**
+
+Focusing on freeCodeCamp for now. Commits to Github will be lesser as I will be reading more for now.
+
+I started using Notion for notes taking.
+
+- started fCC ES6
