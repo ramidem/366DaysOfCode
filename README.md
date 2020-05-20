@@ -704,3 +704,19 @@ Focusing on freeCodeCamp for now. Commits to Github will be lesser as I will be 
 I started using Notion for notes taking.
 
 - started fCC ES6
+
+---
+
+**137 - 138**
+
+`null`
+
+---
+
+**139**
+
+- [x] finished fCC ES6
+
+**140 - 141**
+
+- [x] finised fCC RegEx
