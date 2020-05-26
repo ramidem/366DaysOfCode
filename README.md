@@ -732,3 +732,7 @@ I started using Notion for notes taking.
 **144**
 
 - [x] finished fCC Data Structures
+
+**145 - 147**
+
+- [x] finished fCC Basic Algorithm Scripting
