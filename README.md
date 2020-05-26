@@ -720,3 +720,15 @@ I started using Notion for notes taking.
 **140 - 141**
 
 - [x] finised fCC RegEx
+
+---
+
+**142 - 143**
+
+`null`
+
+---
+
+**144**
+
+- [x] finished fCC Data Structures
