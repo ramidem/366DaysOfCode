@@ -736,3 +736,7 @@ I started using Notion for notes taking.
 **145 - 147**
 
 - [x] finished fCC Basic Algorithm Scripting
+
+**148 - 149**
+
+- [x] finished fCC Object Oriented Programming
