@@ -740,3 +740,13 @@ I started using Notion for notes taking.
 **148 - 149**
 
 - [x] finished fCC Object Oriented Programming
+
+**153**
+
+- STARTED ZUITT BOOTCAMP!
+- Zuitt Day 001
+
+**154**
+
+- Zuitt Day 002
+- [x] wd000 Web Portfolio
