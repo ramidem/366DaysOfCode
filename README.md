@@ -750,3 +750,21 @@ I started using Notion for notes taking.
 
 - Zuitt Day 002
 - [x] wd000 Web Portfolio
+
+**155**
+
+- Zuitt Day 003
+- [x] Update Web Portfolio (new repo)
+- [x] wd002-s01-a1 (CLI activities)
+
+**156**
+
+- Zuitt Day 004
+- [x] Update Web Portfolio (new repo)
+
+**157**
+
+- Zuitt Day 005
+- HTML Forms, CSS
+- [x] wd003-s02-a1
+- [x] wd003-s02-d2-mini-activity

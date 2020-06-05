@@ -1,3 +1,15 @@
 [submodule "Zuitt/aduh-med-portfolio"]
 	path = Zuitt/aduh-med-portfolio
 	url = https://gitlab.com/tuitt/students/batch58/aduh-medimar/aduh-med-portfolio.git
+[submodule "Zuitt/med-awesome-portfolio"]
+	path = Zuitt/med-awesome-portfolio
+	url = git@gitlab.com:ramidem/med-awesome-portfolio.git
+[submodule "Zuitt/wd002-s01-a1"]
+	path = Zuitt/wd002-s01-a1
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd002-s01-a1.git
+[submodule "Zuitt/wd003-s02-a1"]
+	path = Zuitt/wd003-s02-a1
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd003-s02-a1.git
+[submodule "Zuitt/wd003-s02-d2-mini-activity"]
+	path = Zuitt/wd003-s02-d2-mini-activity
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd003-s02-d2-mini-activity.git
