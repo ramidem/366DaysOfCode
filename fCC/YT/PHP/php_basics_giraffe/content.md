@@ -1,0 +1,33 @@
+- [x] (0:00) Introduction
+- [x] (1:56) Windows Installation
+- [x] (7:32) Choosing a Text Editor
+- [x] (11:06) Hello World & Setup
+- [x] (20:29) Writing HTML
+- [x] (27:30) Variables
+- [x] (38:09) Data Types
+- [x] (44:27) Working With Strings
+- [ ] (54:50) Working With Numbers
+- [ ] (1:05:14) Getting User Input
+- [ ] (1:15:37) Building a Basic Calculator
+- [ ] (1:22:13) Building a Mad Libs Game
+- [ ] (1:28:59) URL Parameters
+- [ ] (1:35:52) POST vs GET
+- [ ] (1:41:44) Arrays
+- [ ] (1:50:26) Using Checkboxes
+- [ ] (1:57:22) Associative Arrays
+- [ ] (2:04:55) Functions
+- [ ] (2:12:10) Return Statements
+- [ ] (2:19:10) If Statements
+- [ ] (2:37:16) If Statements (con't)
+- [ ] (2:47:13) Building a Better Calculator
+- [ ] (2:56:53) Switch Statements
+- [ ] (3:05:09) While Loops
+- [ ] (3:15:18) For Loops
+- [ ] (3:26:24) Comments
+- [ ] (3:31:08) Including HTML
+- [ ] (3:36:51) Include: PHP
+- [ ] (3:45:57) Classes & Objects
+- [ ] (3:56:23) Constructors
+- [ ] (4:06:18) Object Functions - PHP - Tutorial 31
+- [ ] (4:13:52) Getters & Setters
+- [ ] (4:29:17) Inheritance
