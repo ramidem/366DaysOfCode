@@ -2,26 +2,44 @@
 
 My attempt to coding everyday for 366 days in 2020!
 
-_Daily Priority_
+_Daily Priority_ (Weekdays)
 
-At least one of each daily. More during the weekends.
-
-- [ ] [freeCodeCamp](https://www.freecodecamp.org/)
+[Zuitt Coding Bootcamp until the end of September 2020](Zuitt/sessions.md)
 
 _During Rest Days_
 
+- [ ] [freeCodeCamp.org](https://www.freecodecamp.org/)
+
+  - [ ] Responsive Web Design Certification
+
+    - [ ] Responsive Web Design Projects
+      - [ ] Build a Tribute Page
+      - [ ] Build a Survey Form
+      - [ ] Build a Product Landing Page
+      - [ ] Build a Technical Documentation Page
+      - [ ] Build a Personal Portfolio Webpage **!PRIMARY**
+
+  - [ ] [PHP Programming Language Tutorial](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+
+  - [ ] Scientific Computing with Python Certification
+    - [ ] Python for Everybody _!!THIRD_
+
 - [ ] [CS50's Web Programming with Python and JavaScript](https://github.com/ramidem/cs50-python-and-js)
-- [ ] [p1xt-guides](https://github.com/P1xt/p1xt-guides)
 
 **@TODO**
 
 - [ ] Improve JavaScript30 Codes
-- [ ] Upload CS50M Project 0 Video
-- [ ] Finish CS50M
 
 **Backlog**
 
-- [CS50M](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
+- YDKJS
+- Wes Bos CSS Grid
+- Wes Bos Flexbox
+- [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
+- [ ] [p1xt-guides](https://github.com/P1xt/p1xt-guides)
+- [ ] [CS50M](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
+- [ ] Upload CS50M Project 0 Video
+- [ ] Finish CS50M
 
 ---
 
@@ -768,3 +786,14 @@ I started using Notion for notes taking.
 - HTML Forms, CSS
 - [x] wd003-s02-a1
 - [x] wd003-s02-d2-mini-activity
+
+**158**
+
+- fCC: Python for Everybody
+- CodeSandbox: Deno - Traversy Media Deno Crash Course
+
+**159**
+
+- [x] Folder Restructure
+- [x] moving to fCC .dev site
+- [x] fCC Dev: Python Conditionals and Functions
