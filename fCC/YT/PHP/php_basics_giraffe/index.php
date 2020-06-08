@@ -14,6 +14,8 @@
   <h2><a href="/basics/data_types.php">Data Types</a></h2>
   <h2><a href="/basics/working_with_strings.php">Working with Strings</a></h2>
   <h2><a href="/basics/working_with_numbers.php">Working with Numbers</a></h2>
+  <h2><a href="/basics/getting_user_input.php">Getting User Input</a></h2>
+  <h2><a href="/basic_calculator/index.php">Basic Calculator/</a></h2>
 
 </body>
 
