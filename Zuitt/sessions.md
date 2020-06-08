@@ -18,8 +18,13 @@
   - WEEK 01
     - Zuitt Day 005
       - HTML Forms, CSS
-      - wd003-s02-a1
-      - wd003-s02-d2-mini-activity
+        - wd003-s02-a1
+        - wd003-s02-d2-mini-activity
+  - WEEK 02
+    - Zuitt Day 006
+      - Intro to CSS
+        - wd003-s03-a1
+      - CSS Pseudo Class and Pseudo Elements
 
 - [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
 - [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages

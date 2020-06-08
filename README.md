@@ -6,6 +6,10 @@ _Daily Priority_ (Weekdays)
 
 [Zuitt Coding Bootcamp until the end of September 2020](Zuitt/sessions.md)
 
+Before bootcamp
+
+- [ ] [PHP Programming Language Tutorial](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+
 _During Rest Days_
 
 - [ ] [freeCodeCamp.org](https://www.freecodecamp.org/)
@@ -19,12 +23,11 @@ _During Rest Days_
       - [ ] Build a Technical Documentation Page
       - [ ] Build a Personal Portfolio Webpage **!PRIMARY**
 
-  - [ ] [PHP Programming Language Tutorial](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+* [ ] Scientific Computing with Python Certification
 
-  - [ ] Scientific Computing with Python Certification
-    - [ ] Python for Everybody _!!THIRD_
+  - [ ] Python for Everybody _!!THIRD_
 
-- [ ] [CS50's Web Programming with Python and JavaScript](https://github.com/ramidem/cs50-python-and-js)
+* [ ] [CS50's Web Programming with Python and JavaScript](https://github.com/ramidem/cs50-python-and-js)
 
 **@TODO**
 
@@ -762,30 +765,30 @@ I started using Notion for notes taking.
 **153**
 
 - STARTED ZUITT BOOTCAMP!
-- Zuitt Day 001
+  - Zuitt Day 001
 
 **154**
 
 - Zuitt Day 002
-- [x] wd000 Web Portfolio
+  - [x] wd000 Web Portfolio
 
 **155**
 
 - Zuitt Day 003
-- [x] Update Web Portfolio (new repo)
-- [x] wd002-s01-a1 (CLI activities)
+  - [x] Update Web Portfolio (new repo)
+  - [x] wd002-s01-a1 (CLI activities)
 
 **156**
 
 - Zuitt Day 004
-- [x] Update Web Portfolio (new repo)
+  - [x] Update Web Portfolio (new repo)
 
 **157**
 
 - Zuitt Day 005
-- HTML Forms, CSS
-- [x] wd003-s02-a1
-- [x] wd003-s02-d2-mini-activity
+  - HTML Forms, CSS
+  - [x] wd003-s02-a1
+  - [x] wd003-s02-d2-mini-activity
 
 **158**
 
@@ -797,3 +800,10 @@ I started using Notion for notes taking.
 - [x] Folder Restructure
 - [x] moving to fCC .dev site
 - [x] fCC Dev: Python Conditionals and Functions
+
+**160**
+
+- [ ] fCC YT PHP Basics with Giraffe Academy
+- [ ] Zuitt Day 006
+  - [wd003-s03-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s03-a1)
+  - [wd003-s04-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s04-a1)
