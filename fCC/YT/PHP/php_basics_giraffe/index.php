@@ -17,6 +17,9 @@
   <h2><a href="/basics/getting_user_input.php">Getting User Input</a></h2>
   <h2><a href="/basic_calculator/index.php">Basic Calculator/</a></h2>
   <h2><a href="/mad_libs/index.php">Mad Libs/</a></h2>
+  <h2><a href="/basics/url_parameters.php">URL Parameters</a></h2>
+  <h2><a href="/basics/post_get.php">Post & Get</a></h2>
+  <h2><a href="/basics/arrays.php">Arrays</a></h2>
 
 </body>
 

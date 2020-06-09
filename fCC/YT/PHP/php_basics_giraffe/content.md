@@ -10,9 +10,9 @@
 - [x] (1:05:14) Getting User Input
 - [x] (1:15:37) Building a Basic Calculator
 - [x] (1:22:13) Building a Mad Libs Game
-- [ ] (1:28:59) URL Parameters
-- [ ] (1:35:52) POST vs GET
-- [ ] (1:41:44) Arrays
+- [x] (1:28:59) URL Parameters
+- [x] (1:35:52) POST vs GET
+- [x] (1:41:44) Arrays
 - [ ] (1:50:26) Using Checkboxes
 - [ ] (1:57:22) Associative Arrays
 - [ ] (2:04:55) Functions
