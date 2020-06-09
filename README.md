@@ -803,7 +803,7 @@ I started using Notion for notes taking.
 
 **160**
 
-- [ ] fCC YT PHP Basics with Giraffe Academy
+- [x] fCC YT PHP Basics with Giraffe Academy 01
 - [x] Zuitt Day 006/120
   - [wd003-s03-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s03-a1)
   - [wd003-s04-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s04-a1)
@@ -813,4 +813,4 @@ I started using Notion for notes taking.
 - [x] Zuitt Day 007/120
   - [wd003-s05-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s05-a1)
   - [wd003-s06-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s06-d1)
-- [ ] fCC YT PHP Basics with Giraffe Academy
+- [x] fCC YT PHP Basics with Giraffe Academy day 02
