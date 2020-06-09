@@ -9,7 +9,7 @@
 - [x] (54:50) Working With Numbers
 - [x] (1:05:14) Getting User Input
 - [x] (1:15:37) Building a Basic Calculator
-- [ ] (1:22:13) Building a Mad Libs Game
+- [x] (1:22:13) Building a Mad Libs Game
 - [ ] (1:28:59) URL Parameters
 - [ ] (1:35:52) POST vs GET
 - [ ] (1:41:44) Arrays

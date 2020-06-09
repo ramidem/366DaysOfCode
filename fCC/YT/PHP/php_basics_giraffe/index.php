@@ -16,6 +16,7 @@
   <h2><a href="/basics/working_with_numbers.php">Working with Numbers</a></h2>
   <h2><a href="/basics/getting_user_input.php">Getting User Input</a></h2>
   <h2><a href="/basic_calculator/index.php">Basic Calculator/</a></h2>
+  <h2><a href="/mad_libs/index.php">Mad Libs/</a></h2>
 
 </body>
 
