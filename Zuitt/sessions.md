@@ -16,15 +16,27 @@
 - [ ] **004**-**019** - _21 Sessions_ -- HTML and CSS
 
   - WEEK 01
+
     - Zuitt Day 005
       - HTML Forms, CSS
         - wd003-s02-a1
         - wd003-s02-d2-mini-activity
+
   - WEEK 02
+
     - Zuitt Day 006
       - Intro to CSS
         - wd003-s03-a1
       - CSS Pseudo Class and Pseudo Elements
+        - wd003-s04-a1
+    - Zuitt Day 007
+      - CSS Box Model
+        - Inline and Block Elements
+        - Box Sizing
+        - wd003-s05-a1
+      - CSS Positioning
+        - Relative Positioning
+        - wd003-s06-d1
 
 - [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
 - [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages

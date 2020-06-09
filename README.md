@@ -765,27 +765,27 @@ I started using Notion for notes taking.
 **153**
 
 - STARTED ZUITT BOOTCAMP!
-  - Zuitt Day 001
+  - Zuitt Day 001/120
 
 **154**
 
-- Zuitt Day 002
+- Zuitt Day 002/120
   - [x] wd000 Web Portfolio
 
 **155**
 
-- Zuitt Day 003
+- Zuitt Day 003/120
   - [x] Update Web Portfolio (new repo)
   - [x] wd002-s01-a1 (CLI activities)
 
 **156**
 
-- Zuitt Day 004
+- Zuitt Day 004/120
   - [x] Update Web Portfolio (new repo)
 
 **157**
 
-- Zuitt Day 005
+- Zuitt Day 005/120
   - HTML Forms, CSS
   - [x] wd003-s02-a1
   - [x] wd003-s02-d2-mini-activity
@@ -804,6 +804,12 @@ I started using Notion for notes taking.
 **160**
 
 - [ ] fCC YT PHP Basics with Giraffe Academy
-- [ ] Zuitt Day 006
+- [x] Zuitt Day 006/120
   - [wd003-s03-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s03-a1)
   - [wd003-s04-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s04-a1)
+
+**161**
+
+- [x] Zuitt Day 007/120
+  - [wd003-s05-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s05-a1)
+  - [wd003-s06-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s06-d1)
