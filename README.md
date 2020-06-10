@@ -43,6 +43,7 @@ _During Rest Days_
 - [ ] [CS50M](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
 - [ ] Upload CS50M Project 0 Video
 - [ ] Finish CS50M
+- [ ] [BPJS Electron App](https://www.youtube.com/playlist?list=PL_gX69xPLi-nFjI1x4beXHY2wRjIqZmwC)
 
 ---
 
@@ -814,3 +815,9 @@ I started using Notion for notes taking.
   - [wd003-s05-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s05-a1)
   - [wd003-s06-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s06-d1)
 - [x] fCC YT PHP Basics with Giraffe Academy day 02
+
+**162**
+
+- [x] Zuitt Day 008/120
+  - [wd003-s06-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s06-d1)
+  - [wd003-s06-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s06-a1)

@@ -25,11 +25,14 @@
   - WEEK 02
 
     - Zuitt Day 006
+
       - Intro to CSS
         - wd003-s03-a1
       - CSS Pseudo Class and Pseudo Elements
         - wd003-s04-a1
+
     - Zuitt Day 007
+
       - CSS Box Model
         - Inline and Block Elements
         - Box Sizing
@@ -38,14 +41,22 @@
         - Relative Positioning
         - wd003-s06-d1
 
-- [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
-- [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
-- [ ] **032**-**045** - _14 Sessions_ -- Simplified PHP Programming + MySQL
-- [ ] **046**-**063** - _17 Sessions_ -- Simplified Laravel
-- [ ] **064**-**071** - _07 Sessions_ -- Mongo-DB and GraphQL
-- [ ] **072**-**081** - _09 Sessions_ -- ReactJS for MERN-G
-- [ ] **082**-**099** - _17 Sessions_ -- MERN-G and eCommerce Business Use Cases
-- [ ] **100**-**105** - _05 Sessions_ -- JavaScript: Data Structures and Machine Problems
-- [ ] **106**-**113** - _07 Sessions_ -- Unit Test and Test Automation for PHP
-- [ ] **114**-**119** - _05 Sessions_ -- Tuitt Guidance Sessions
-- [ ] **120**-**120** - _01 Sessions_ -- Graduation Rites
+    - Zuitt Day 008
+
+      - CSS Positioning
+        - Absolute Positioning
+        - Floats (Clear)
+        - wd003-s06-d1 update
+        - wd003-s06-d1 update
+
+* [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
+* [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
+* [ ] **032**-**045** - _14 Sessions_ -- Simplified PHP Programming + MySQL
+* [ ] **046**-**063** - _17 Sessions_ -- Simplified Laravel
+* [ ] **064**-**071** - _07 Sessions_ -- Mongo-DB and GraphQL
+* [ ] **072**-**081** - _09 Sessions_ -- ReactJS for MERN-G
+* [ ] **082**-**099** - _17 Sessions_ -- MERN-G and eCommerce Business Use Cases
+* [ ] **100**-**105** - _05 Sessions_ -- JavaScript: Data Structures and Machine Problems
+* [ ] **106**-**113** - _07 Sessions_ -- Unit Test and Test Automation for PHP
+* [ ] **114**-**119** - _05 Sessions_ -- Tuitt Guidance Sessions
+* [ ] **120**-**120** - _01 Sessions_ -- Graduation Rites
