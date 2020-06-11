@@ -13,7 +13,7 @@
     - Zuitt Day 004
       - Update Web Portfolio (new repo)
 
-- [ ] **004**-**019** - _21 Sessions_ -- HTML and CSS
+- [x] **004**-**019** - _21 Sessions_ -- HTML and CSS
 
   - WEEK 01
 
@@ -48,6 +48,13 @@
         - Floats (Clear)
         - wd003-s06-d1 update
         - wd003-s06-d1 update
+
+    - Zuitt Day 009
+
+      - CSS Fluid Grids
+        - wd003-s07-a1 Media Query Activity
+      - Intro to Bootstrap
+        - wd003-s08-d1
 
 * [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
 * [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages

@@ -13,11 +13,11 @@
 - [x] (1:28:59) URL Parameters
 - [x] (1:35:52) POST vs GET
 - [x] (1:41:44) Arrays
-- [ ] (1:50:26) Using Checkboxes
-- [ ] (1:57:22) Associative Arrays
-- [ ] (2:04:55) Functions
-- [ ] (2:12:10) Return Statements
-- [ ] (2:19:10) If Statements
+- [x] (1:50:26) Using Checkboxes
+- [x] (1:57:22) Associative Arrays
+- [x] (2:04:55) Functions
+- [x] (2:12:10) Return Statements
+- [x] (2:19:10) If Statements
 - [ ] (2:37:16) If Statements (con't)
 - [ ] (2:47:13) Building a Better Calculator
 - [ ] (2:56:53) Switch Statements

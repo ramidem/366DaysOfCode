@@ -20,6 +20,11 @@
   <h2><a href="/basics/url_parameters.php">URL Parameters</a></h2>
   <h2><a href="/basics/post_get.php">Post & Get</a></h2>
   <h2><a href="/basics/arrays.php">Arrays</a></h2>
+  <h2><a href="/basics/using_checkboxes.php">Using Checkboxes</a></h2>
+  <h2><a href="/basics/associative_arrays.php">Associative Arrays</a></h2>
+  <h2><a href="/basics/functions.php">Functions</a></h2>
+  <h2><a href="/basics/return_statements.php">Return Statements</a></h2>
+  <h2><a href="/basics/if_statements.php">If Statements</a></h2>
 
 </body>
 
