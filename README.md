@@ -44,6 +44,7 @@ _During Rest Days_
 - [ ] Upload CS50M Project 0 Video
 - [ ] Finish CS50M
 - [ ] [BPJS Electron App](https://www.youtube.com/playlist?list=PL_gX69xPLi-nFjI1x4beXHY2wRjIqZmwC)
+- [ ] [15 JS Projects](https://www.youtube.com/watch?v=3PHXvlpOkf4)
 
 ---
 
@@ -821,3 +822,10 @@ I started using Notion for notes taking.
 - [x] Zuitt Day 008/120
   - [wd003-s06-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s06-d1)
   - [wd003-s06-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s06-a1)
+
+**163**
+
+- [x] Zuitt Day 009/120
+  - [wd003-s07-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s07-a1)
+  - [wd003-s08-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s08-d1)
+- [x] fCC YT: PHP with Giraffe day 03
