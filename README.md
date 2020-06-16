@@ -829,3 +829,18 @@ I started using Notion for notes taking.
   - [wd003-s07-a1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s07-a1)
   - [wd003-s08-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s08-d1)
 - [x] fCC YT: PHP with Giraffe day 03
+
+**164 - 166**
+
+- Spent most of my time on Notion, listing subject to learn
+
+**167**
+
+- Zuitt Day 010/120
+  - [wd003-s08-d1](https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd003-s08-a1)
+- [x] fCC YT PHP Basics with Giraffe Academy day 03
+
+**168**
+
+- Zuitt Day 011/120
+  - wd003-s09-a1 Bootstrap Reinforcement

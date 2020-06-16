@@ -56,6 +56,14 @@
       - Intro to Bootstrap
         - wd003-s08-d1
 
+  - WEEK 03
+
+    - Zuitt Day 010
+      - wd003-s08-d1 Introduction to Bootstrap and Bootstrap Components
+    - Zuitt Day 011
+      - Intro to Bootstrap con't
+      - wd003-s09-a1 Bootstrap Reinforcement, Wireframes and Mockups
+
 * [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
 * [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
 * [ ] **032**-**045** - _14 Sessions_ -- Simplified PHP Programming + MySQL

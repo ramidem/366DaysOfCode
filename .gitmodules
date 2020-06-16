@@ -31,3 +31,6 @@
 [submodule "Zuitt/wd003-s07-a1"]
 	path = Zuitt/wd003-s07-a1
 	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd003-s07-a1.git
+[submodule "Zuitt/wd003-s08-a1"]
+	path = Zuitt/wd003-s08-a1
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd003-s08-a1.git
