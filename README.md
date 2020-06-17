@@ -844,3 +844,8 @@ I started using Notion for notes taking.
 
 - Zuitt Day 011/120
   - wd003-s09-a1 Bootstrap Reinforcement
+
+**169**
+
+- Zuitt Day 012/120
+  - wd003-s10-d1 Wireframes and Mockups
