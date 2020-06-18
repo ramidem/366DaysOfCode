@@ -849,3 +849,8 @@ I started using Notion for notes taking.
 
 - Zuitt Day 012/120
   - wd003-s10-d1 Wireframes and Mockups
+
+**170**
+
+- Zuitt Day 013/120
+  - [Capstone 1](https://gitlab.com/ramidem/mcpinsan-capstone1)

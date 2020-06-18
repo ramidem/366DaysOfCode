@@ -65,6 +65,8 @@
       - wd003-s09-a1 Bootstrap Reinforcement, Wireframes and Mockups
     - Zuitt Day 012
       - wd003-s10-d1 Wireframes and Mockups
+    - Zuitt Day 013
+      - [Capstone 1](https://gitlab.com/ramidem/mcpinsan-capstone1)
 
 * [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
 * [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
