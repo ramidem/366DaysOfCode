@@ -859,3 +859,10 @@ I started using Notion for notes taking.
 
 - Zuitt Day 14/120
   - Kept working on [Capstone 1](https://gitlab.com/ramidem/mcpinsan-capstone1)
+
+**175**
+
+- Zuitt Day 16/120
+  - Presentation of [Capstone 1](https://gitlab.com/ramidem/mcpinsan-capstone1)
+  - Code Refactor and design changes
+  - I lost track of the day number
