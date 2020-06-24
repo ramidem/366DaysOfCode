@@ -866,3 +866,9 @@ I started using Notion for notes taking.
   - Presentation of [Capstone 1](https://gitlab.com/ramidem/mcpinsan-capstone1)
   - Code Refactor and design changes
   - I lost track of the day number
+
+**176**
+
+- Zuitt Day 17/120
+  - Intro to JS Programming
+  - wd004-s01-d1

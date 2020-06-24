@@ -76,6 +76,13 @@
       - code refactor, presentation [Capstone 1](https://gitlab.com/ramidem/mcpinsan-capstone1)
 
 * [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
+
+  - WEEK 04
+
+    - Zuitt Day 017
+      - intro to js programming
+      - wd004-s01-d1
+
 * [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
 * [ ] **032**-**045** - _14 Sessions_ -- Simplified PHP Programming + MySQL
 * [ ] **046**-**063** - _17 Sessions_ -- Simplified Laravel

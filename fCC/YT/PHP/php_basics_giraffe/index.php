@@ -25,6 +25,7 @@
   <h2><a href="/basics/functions.php">Functions</a></h2>
   <h2><a href="/basics/return_statements.php">Return Statements</a></h2>
   <h2><a href="/basics/if_statements.php">If Statements</a></h2>
+  <h2><a href="/basics/if_statements2.php">If Statements 2</a></h2>
 
 </body>
 
