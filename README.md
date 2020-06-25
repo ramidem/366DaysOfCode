@@ -872,3 +872,9 @@ I started using Notion for notes taking.
 - Zuitt Day 17/120
   - Intro to JS Programming
   - wd004-s01-d1
+
+**177**
+
+- Zuitt Day 18/120
+  - Intro to JS Programming - Part 2
+  - wd004-s01-d1

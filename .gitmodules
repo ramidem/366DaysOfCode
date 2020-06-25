@@ -40,3 +40,6 @@
 [submodule "Zuitt/mcpinsan-capstone1"]
 	path = Zuitt/mcpinsan-capstone1
 	url = git@gitlab.com:ramidem/mcpinsan-capstone1.git
+[submodule "Zuitt/wd004-s01-d1"]
+	path = Zuitt/wd004-s01-d1
+	url = https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd004-s01-d1

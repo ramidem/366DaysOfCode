@@ -82,6 +82,9 @@
     - Zuitt Day 017
       - intro to js programming
       - wd004-s01-d1
+    - Zuitt Day 018
+      - intro to js programming - Part 2
+      - wd004-s01-d1
 
 * [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
 * [ ] **032**-**045** - _14 Sessions_ -- Simplified PHP Programming + MySQL
