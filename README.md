@@ -878,3 +878,22 @@ I started using Notion for notes taking.
 - Zuitt Day 18/120
   - Intro to JS Programming - Part 2
   - wd004-s01-d1
+
+**172 - 179**
+- Worked on [Dotfiles](https://github.com/ramidem/dotfiles) over the weekend
+
+**180**
+
+- Zuitt Day 19/120
+  - Control Structures: Loops
+  - Control Structures: Activity
+      - wd004-s03-a1
+      - wd004-s03-a2
+
+**181**
+
+- Zuitt Day 20/120
+
+**182**
+
+- Zuitt Day 21/120

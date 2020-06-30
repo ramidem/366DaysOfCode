@@ -86,6 +86,20 @@
       - intro to js programming - Part 2
       - wd004-s01-d1
 
+  - WEEK 05
+
+    - Zuitt Day 019
+      - Control Structures: Activity
+      - Control Structures: Loops
+        - wd004-s03-a1
+        - wd004-s03-a2
+    - Zuitt Day 020
+      - Loops
+    - Zuitt Day 021
+      - wd004-s03-a3 Nested Loops
+      - wd004-s04-d1 Arrays
+      - wd004-s04-a1 Arrays Activity
+
 * [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
 * [ ] **032**-**045** - _14 Sessions_ -- Simplified PHP Programming + MySQL
 * [ ] **046**-**063** - _17 Sessions_ -- Simplified Laravel

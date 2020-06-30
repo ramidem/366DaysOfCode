@@ -43,3 +43,21 @@
 [submodule "Zuitt/wd004-s01-d1"]
 	path = Zuitt/wd004-s01-d1
 	url = https://gitlab.com/tuitt/students/batch58/aduh-medimar/wd004-s01-d1
+[submodule "Zuitt/wd004-s02-a2"]
+	path = Zuitt/wd004-s02-a2
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd004-s02-a2.git
+[submodule "Zuitt/wd004-s03-a1"]
+	path = Zuitt/wd004-s03-a1
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd004-s03-a1.git
+[submodule "Zuitt/wd004-s03-a2"]
+	path = Zuitt/wd004-s03-a2
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd004-s03-a2.git
+[submodule "Zuitt/wd004-s04-d1"]
+	path = Zuitt/wd004-s04-d1
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd004-s04-d1.git
+[submodule "Zuitt/wd004-s03-a3"]
+	path = Zuitt/wd004-s03-a3
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd004-s03-a3.git
+[submodule "Zuitt/wd004-s04-a1"]
+	path = Zuitt/wd004-s04-a1
+	url = git@gitlab.com:tuitt/students/batch58/aduh-medimar/wd004-s04-a1.git
