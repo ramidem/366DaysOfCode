@@ -75,7 +75,7 @@
     - Zuitt Day 016
       - code refactor, presentation [Capstone 1](https://gitlab.com/ramidem/mcpinsan-capstone1)
 
-* [ ] **020**-**025** - _05 Sessions_ -- JavaScript Programming
+* [x] **020**-**025** - _05 Sessions_ -- JavaScript Programming
 
   - WEEK 04
 
@@ -99,6 +99,11 @@
       - wd004-s03-a3 Nested Loops
       - wd004-s04-d1 Arrays
       - wd004-s04-a1 Arrays Activity
+    - Zuitt Day 22-25
+      - Display, Add and Delete Tasks - wd004-s04-a1  
+      - Zodiac with Array/Object - wd004-s05-a2  
+		    - Color Palette - wd005-s01-a1
+
 
 * [ ] **026**-**031** - _06 Sessions_ -- JavaScript and Interactive Web Pages
 * [ ] **032**-**045** - _14 Sessions_ -- Simplified PHP Programming + MySQL
