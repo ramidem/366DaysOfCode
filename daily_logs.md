@@ -881,4 +881,9 @@ I started using Notion for notes taking.
   - Moved tutorial files. I've decided I'll just keep the daily logs and resources.
 - Pirple.com ES6
 
-<a href="#top" id="bottom">[top]</a>
+**188**
+
+- Removed Submodules
+- add Zuitt/Capstones/mcpinsan-capstone1
+
+  <a href="#top" id="bottom">[top]</a>
