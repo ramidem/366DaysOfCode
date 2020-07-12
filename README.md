@@ -8,5 +8,5 @@ I found out that I am able to track the stuff I want to learn better by putting 
 
 ## Currently...
 
-1. [Zuitt Coding Bootcamp until the end of September 2020](./Zuitt/sessions.md)
+1. Zuitt Coding Bootcamp until the end of September 2020
 2. [Daily Logs](./daily_logs.md)

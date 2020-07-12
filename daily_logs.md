@@ -885,5 +885,71 @@ I started using Notion for notes taking.
 
 - Removed Submodules
 - add Zuitt/Capstones/mcpinsan-capstone1
+- Zuitt Activity
+  - Column Manipulation
+  - To Do List
+- Enrolled in Pirple
+  - ES6
+    - Intro
+    - Data Types
+  - Python is Easy
+    - Intro
+  - NodeJS Masterclass
+    - Course Overview
+    - Background Information
 
-  <a href="#top" id="bottom">[top]</a>
+**189**
+
+- Zuitt Activity
+  - Riddle Riddle
+- Pirple
+  - ES6
+    - Intro
+    - Data Types
+  - Python is Easy
+    - Intro
+  - NodeJS Masterclass
+    - Course Overview
+    - Background Information
+
+**190**
+
+- Zuitt Minicapstone
+  - Register Page with JS
+- Pirple
+  - NodeJS
+    - Parsing Request Paths
+  - ES6
+    - If Statements and Operators: Intro
+
+**191**
+
+- Zuitt Discussion
+  - jQuery
+  - jQuery Effects
+    - wd005-s05-a1
+- Pirple
+  - ES6
+    - Functions
+
+**192**
+
+- Zuitt Minicapstone
+  - jQuery Todo List
+    - wd005-6
+- Pirple
+  - ES6
+    - Functions Cont
+
+**193**
+
+- Pirple
+  - ES6
+    - Functions Activity
+
+**194**
+
+- Pirple
+  - NodeJS
+
+<a href="#top" id="bottom">[top]</a>
