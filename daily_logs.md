@@ -952,4 +952,42 @@ I started using Notion for notes taking.
 - Pirple
   - NodeJS
 
+**195**
+
+- Zuitt Day 30
+  - Intro to PHP
+
+**196**
+
+- Zuitt Day 31
+  - PHP Activity - Intro to Control Structures
+
+**197**
+
+- Zuitt Day 32
+  - Uploading files with PHP
+  - PHP \$\_SESSION
+  - Registration Page
+
+**198**
+
+- Zuitt Day 33
+  - SQL
+    - Designing a Database
+      - ERD to Database
+      - MySQL
+
+**199**
+
+- Zuitt Day 34
+  - PHP To Do App
+  - Connecting to PHP and MySQL
+
+**200**
+**201**
+
+- Tmux
+- Fixed LAMP on Pop OS
+- Pirple Homeworks!
+
 <a href="#top" id="bottom">[top]</a>
